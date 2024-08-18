@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hello, I'm Pia!
 
-<!--
-**pia-fml1/pia-fml1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Scientist with a passion for **data**, **computer vision**, and **large language models (LLMs)**. I thrive on solving complex problems and building innovative solutions. Currently, I'm working on **Generative AI (GenAI) projects** and am always eager to learn new skills and collaborate on exciting endeavors.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Languages:** Python
+- **Frameworks:** TensorFlow, PyTorch, OpenCV
+- **Tools:** Git, Docker, Kubernetes, Jupyter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 What I’m Working On
+- Developing advanced computer vision algorithms for real-time applications.
+- Exploring cutting-edge techniques in generative AI and language models.
+
+
+Feel free to browse my repositories and open issues if you have any questions or want to collaborate. Looking forward to connecting with you!
